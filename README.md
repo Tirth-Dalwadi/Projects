@@ -29,8 +29,3 @@
 <h4>2. Invisible-Cloak:https://github.com/Tirth-AI/Invisible-Cloak</h4>
 <h4>3. Face-Detection: https://github.com/Tirth-AI/Face-Detection</h4>
 <br>
-
-
-# School Project
-
-<h4>1. Employee Management System: https://github.com/Tirth-AI/Employee-Management-System</h4>
